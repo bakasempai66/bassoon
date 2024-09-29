@@ -27,4 +27,8 @@ body {
   div {
     padding: 20px;
   }
+
+  .delete-button{
+    margin: 0 10px;
+  }
   
